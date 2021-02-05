@@ -1,0 +1,36 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Mattia Guerini"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = "Mattia Guerini"
+  description = "Assistant professor, University of Brescia"
+#  favicon = "favicon.ico"  # path to a .ico to use as favicon
+#  logo = ""  # url or path to a logo to put in the header
+
+[menu]
+#  [[menu.main]]
+#    name = "About"
+#    url = "/about"
+#    weight = 1
+  [[menu.main]]
+    name = "Vitae"
+    url = "/mg_vitae.pdf"
+    weight = 2
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications"
+    weight = 3
+  [[menu.main]]
+    name = "Policy"
+    url = "/policy"
+    weight = 4
+  [[menu.main]]
+    name = "Contacts"
+    url = "/contact"
+    weight = 5
