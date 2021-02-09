@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Mattia Guerini</title>
+    <link>https://mattiaguerini.github.io/</link>
+    <description>Recent content in About on Mattia Guerini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://mattiaguerini.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mattiaguerini.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattiaguerini.github.io/about/</guid>
+      <description>Hello!
+My name is Mattia Guerini and I am assistant professor in econometrics at the University of Brescia.
+I&amp;rsquo;ve obtained my PhD at the Sant&amp;rsquo;Anna School for Advanced Studies and I&amp;rsquo;ve then served as a post-doctorate for the OFCE-SciencesPo and as a Marie Sklodowska-Curie fellow at GREDEG, Universtity Côte d&amp;rsquo;Azur.
+Research Interest Topics: macroeconomics, industry dynamics, monetary economics.
+Methods: agent-based models, econometrics, validation and calibration.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mattiaguerini.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattiaguerini.github.io/contact/</guid>
+      <description>Mailing Address mattia.guerini@unibs.it
+Mattia Guerini
+Università di Brescia
+Dipartimento di Economia e Management
+74/b, via San Faustino
+25122, Brescia &amp;ndash; Italia
+Links  Google Scholar GitHub Orcid Twitter  </description>
+    </item>
+    
+    <item>
+      <title>Policy</title>
+      <link>https://mattiaguerini.github.io/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattiaguerini.github.io/policy/</guid>
+      <description>Policy Briefs and Articles for Public Debate All writings in each category are in reverse chronological order.
+in english Guerini M., Nesta L., Ragot X., Schiavo S. (2020). Firm liquidity and solvency under the Covid-19 lockdown in France. OFCE Policy Brief n.76.
+Antonin C., Guerini M., Napoletano M. and Vona F. (2019). Italy: Escaping the high-debt and low-growth trap. OFCE Policy Brief n.56.
+Battiston S., Guerini M., Napoletano M. and Stobova V.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://mattiaguerini.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattiaguerini.github.io/publications/</guid>
+      <description>All publications are in chronological order.
+Peer Reviewed Publications   Guerini M., Moneta A. (2017). A method for agent-based models validation &amp;ndash; Journal of Economics Dynamics and Control, vol.82, 125-141.
+  Guerini M., Napoletano M., Roventini A. (2018). No man is an Island: the impact of heterogeneity and local interactions on macroeconomic dynamics &amp;ndash; Economic Modelling, vol.68, 82-95.
+  Guerini M., Lamperti F., Mazzocchetti A. (2018). Unconventional Monetary Policy: Between the Past and Future of Monetary Economics.</description>
+    </item>
+    
+  </channel>
+</rss>
