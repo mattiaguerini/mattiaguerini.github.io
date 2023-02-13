@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html#academic-position",
+    "href": "index.html#academic-position",
+    "title": "Mattia Guerini",
+    "section": "Academic Position",
+    "text": "Academic Position\nAssistant Professor of Economics, Department of Economics and Management, University of Brescia.\nSenior Researcher, Fondazione ENI Enrico Mattei (FEEM)."
+  },
+  {
+    "objectID": "index.html#resarch-interests",
+    "href": "index.html#resarch-interests",
+    "title": "Mattia Guerini",
+    "section": "Resarch Interests",
+    "text": "Resarch Interests\nTopics: macroeconomics, industry dynamics, monetary economics.\nMethods: agent-based models, econometrics, validation and calibration."
+  },
+  {
+    "objectID": "index.html#mailing-address",
+    "href": "index.html#mailing-address",
+    "title": "Mattia Guerini",
+    "section": "Mailing Address",
+    "text": "Mailing Address\nMattia Guerini\nUniversità di Brescia\nDipartimento di Economia e Management\n74/b, via San Faustino\n25122, Brescia – Italia\nmattia.guerini@unibs.it"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Mattia Guerini",
+    "section": "Links",
+    "text": "Links\n Vitae\n Google Scholar\n GitHub\n Orcid\n Strava"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Mattia Guerini",
+    "section": "Peer Reviewed Publications",
+    "text": "Peer Reviewed Publications\n\nGuerini M., Luu D.T., Napoletano M. (2022) - Synchronization patterns in the European Union. Applied Economics.\nhttps://doi.org/10.1080/00036846.2022.2101607\nGuerini M., Lamperti F., Napoletano M., Roventini A., Treibich T. (2022) - Unconventional Monetary Policies in an Agent-Based Model with Mark-to-Market Standards. Review of Evolutionary Political Economy.\nhttps://doi.org/10.1007/s43253-022-00065-8\nCaiani A., Reissl S., Lamperti F., Guerini M., Vanni F., Fagiolo G., Ferraresi T., Ghezzi L., Napoletano M., Roventini A. (2022) - Assessing the economic effects of lockdowns in Italy: a dynamic Input-Output approach. Industrial and Corporate Change.\nhttps://doi.org/10.1093/icc/dtac003\nGuerini M., Harting P., Napoletano M. (2021). Governance structure, technical change and industry competition. Journal of Economics Dynamics and Control.\nhttps://doi.org/10.1016/j.jedc.2021.104294\nCalvino F., Giachini D., Guerini M. (2021). The age distribution of business firms. Journal of Evolutionary Economics.\nhttps://doi.org/10.1007/s00191-021-00747-2\nGuerini M., Musso P. and Nesta L. (2021). Can You Jump This High? Quantifying Barriers to Market Participation. Economic Modelling.\nhttps://doi.org/10.1016/j.econmod.2021.02.017\nGuerini M., Moneta A., Napoletano M., Roventini A. (2020). The Janus-Faced Nature of Debt: Results from a Data-Driven Cointegrated SVAR Approach. Macroeconomic Dynamics.\nhttps://doi.org/10.1017/S1365100518000445\nGuerini M., Napoletano M., Nesta L. (2018). Convergence des structures et des cycles industriels dans l’Union Européenne. Revue de l’OFCE.\nhttps://doi.org/10.3917/reof.158.0127\nGuerini M., Lamperti F., Mazzocchetti A. (2018). Unconventional Monetary Policy: Between the Past and Future of Monetary Economics. European Journal of Economics and Economic Policy: Intervention.\nhttps://doi.org/10.4337/ejeep.2018.0036\nGuerini M., Napoletano M., Roventini A. (2018). No man is an Island: the impact of heterogeneity and local interactions on macroeconomic dynamics. Economic Modelling.\nhttps://doi.org/10.1016/j.econmod.2017.05.004\nGuerini M., Moneta A. (2017). A method for agent-based models validation. Journal of Economics Dynamics and Control.\nhttps://doi.org/10.1016/j.jedc.2017.06.001"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Mattia Guerini",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\nGuerini M., Nesta L., Ragot X., Schiavo S. (2020). Dynamique des défaillances d’entreprises en France et crise de la Covid-19.\nin: OFCE Eds., L’économie française 2021, Collection repères, Editions la Découverte, vol. 747.\nhttps://www.editionsladecouverte.fr/l_economie_francaise_2021-9782348064142\nGuerini M., Lamperti F., Mazzocchetti A. (2019). Unconventional Monetary Policy in the United States and in Europe.\nin: Vlaskos, Vasileios and Bitzenis, Aristides. Eds., European Union: Post Crisis Challenges and Prospects for Growth, Palgrave Macmillan.\nhttps://doi.org/10.1007/978-3-030-18103-1_3\nFagiolo G., Guerini M., Lamperti F., Moneta A., Roventini A. (2019). Validation of Agent-Based Models in Economics and Finance.\nin: Beisbart, Claus and Nicole J. Saam. Eds., Computer Simulation Validation. Fundamental Concepts, Methodological Frameworks, Philosophical Perspectives, Cham: Springer International Publishing.\nhttps://doi.org/10.1007/978-3-319-70766-2_31\nGuerini M., Napoletano M., Nesta L. (2018). Dynamique et synchronisation des industries manufacturières de l’Union européenne.\nin: OFCE Eds., L’économie européenne 2019, Collection repères, Editions la Découverte, vol. 720.\nhttps://www.editionsladecouverte.fr/l_economie_europeenne_2019-9782348041822"
+  },
+  {
+    "objectID": "publications.html#code-and-data-publications",
+    "href": "publications.html#code-and-data-publications",
+    "title": "Mattia Guerini",
+    "section": "Code and Data Publications",
+    "text": "Code and Data Publications\n\nGuerini M., Harting P., Napoletano M. (2021). Data and Replication Package for: Governance Structure, Technical Change and Industry Competition, Bielefeld University.\nhttps://pub.uni-bielefeld.de/record/2950277"
+  }
+]
